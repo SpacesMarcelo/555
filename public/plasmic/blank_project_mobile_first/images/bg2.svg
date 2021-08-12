@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 650 1040">
+  <circle cx="515" cy="135" r="135" fill="url(#A4J_lINPbtIa)"/>
+  <circle cx="150" cy="342" r="85" fill="url(#A4J_lINPbtIb)"/>
+  <circle cx="505" cy="699" r="85" fill="url(#A4J_lINPbtIc)"/>
+  <defs>
+    <radialGradient id="A4J_lINPbtIa" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 135 -135 0 515 135)">
+      <stop stop-color="#FF375F" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#FF375F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="A4J_lINPbtIb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 85 -85 0 150 342)">
+      <stop stop-color="#32D74B" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#32D74B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="A4J_lINPbtIc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 85 -85 0 505 699)">
+      <stop stop-color="#FFD60A" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#FFD60A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
