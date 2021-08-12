@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 107 70">
+  <path d="M83 0H24v38H0l53 32 54-32H83V0z" fill="url(#HIRk03-hJUsa)"/>
+  <defs>
+    <linearGradient id="HIRk03-hJUsa" x1="53.5" y1="-3" x2="53.5" y2="70" gradientUnits="userSpaceOnUse">
+      <stop/>
+      <stop offset="1" stop-color="#1C1C1E"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 595 956">
+  <circle cx="135" cy="683" r="135" fill="url(#GKXYn3F5uka)"/>
+  <circle cx="510" cy="642" r="85" fill="url(#GKXYn3F5ukb)"/>
+  <circle cx="135" cy="85" r="85" fill="url(#GKXYn3F5ukc)"/>
+  <defs>
+    <radialGradient id="GKXYn3F5uka" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 135 -135 0 135 683)">
+      <stop stop-color="#FF375F" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#FF375F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="GKXYn3F5ukb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 85 -85 0 510 642)">
+      <stop stop-color="#32D74B" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#32D74B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="GKXYn3F5ukc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 85 -85 0 135 85)">
+      <stop stop-color="#FFD60A" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#FFD60A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
